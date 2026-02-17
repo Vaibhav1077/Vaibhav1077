@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kaushal</h1>
-<h3 align="center">MCA @ NIT Jamshedpur | MERN Developer | DSA Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=230&section=header&text=Vaibhav%20Kaushal&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<h3 align="center">🚀 MCA @ NIT Jamshedpur | MERN Developer | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Specialist;200%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
 
 ---
 
@@ -13,30 +24,31 @@
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,git,github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,git,github,tailwind&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav1077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhav1077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav1077&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 🧠 Random Dev Quote
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -58,5 +70,9 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vaibhav1077&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav1077&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=130&section=footer" />
 </p>
