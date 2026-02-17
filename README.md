@@ -1,13 +1,16 @@
+<!-- TOP HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=230&section=header&text=Vaibhav%20Kaushal&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h3 align="center">🚀 MCA @ NIT Jamshedpur | MERN Developer | DSA Enthusiast</h3>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Specialist;200%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Future+Software+Engineer" />
 </p>
 
+<!-- CLEAN CODING GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
@@ -45,10 +48,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Vaibhav1077/Vaibhav1077/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -73,6 +76,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vaibhav1077&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:243B55,100:141E30&height=130&section=footer" />
 </p>
