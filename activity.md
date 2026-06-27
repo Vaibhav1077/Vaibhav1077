@@ -4,3 +4,4 @@
 - 2026-06-20T09:00:00: docs: add project roadmap
 - 2026-06-22T16:00:00: docs: update skills section
 - 2026-06-25T10:00:00: docs: add leetcode milestone
+- 2026-06-27T12:00:00: docs: refine about section
