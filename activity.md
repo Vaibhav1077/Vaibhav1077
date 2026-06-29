@@ -5,3 +5,4 @@
 - 2026-06-22T16:00:00: docs: update skills section
 - 2026-06-25T10:00:00: docs: add leetcode milestone
 - 2026-06-27T12:00:00: docs: refine about section
+- 2026-06-29T15:00:00: docs: add deployment notes
