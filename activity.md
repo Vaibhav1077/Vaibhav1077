@@ -6,3 +6,4 @@
 - 2026-06-25T10:00:00: docs: add leetcode milestone
 - 2026-06-27T12:00:00: docs: refine about section
 - 2026-06-29T15:00:00: docs: add deployment notes
+- 2026-07-02T11:00:00: docs: track weekly progress
