@@ -12,3 +12,4 @@
 - 2026-07-10T16:00:00: docs: refine tech stack badges
 - 2026-07-12T10:00:00: docs: add contribution guidelines
 - 2026-07-15T12:00:00: docs: update achievement section
+- 2026-07-18T15:00:00: docs: add interview prep notes
