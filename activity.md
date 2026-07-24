@@ -15,3 +15,4 @@
 - 2026-07-18T15:00:00: docs: add interview prep notes
 - 2026-07-20T11:00:00: docs: restructure sections
 - 2026-07-22T14:00:00: docs: add coding contest info
+- 2026-07-24T09:00:00: docs: update connect links
