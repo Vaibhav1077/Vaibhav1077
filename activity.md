@@ -17,3 +17,4 @@
 - 2026-07-22T14:00:00: docs: add coding contest info
 - 2026-07-24T09:00:00: docs: update connect links
 - 2026-07-26T16:00:00: docs: add ML project details
+- 2026-07-28T10:00:00: docs: refine featured projects
