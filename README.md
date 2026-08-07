@@ -77,7 +77,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhav1077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Vaibhav1077&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -104,9 +103,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhavkaushal-nitjsr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Kaushal-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Vaibhav1077" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Vaibhav1077-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:2024pgcsca074@nitjsr.ac.in">
     <img src="https://img.shields.io/badge/Email-2024pgcsca074%40nitjsr.ac.in-red?style=for-the-badge&logo=gmail&logoColor=white" />
