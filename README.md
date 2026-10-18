@@ -105,7 +105,7 @@ Tools & Integrations
       <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, WebSockets, LangChain, LangGraph, Gemini, Groq</p>
       <p>
         <a href="https://github.com/Vaibhav1077/Crack-IT"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Crack-IT source code" /></a>
-        <a href="https://crackit-server.onrender.com/"><img src="https://img.shields.io/badge/Live_Project-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Crack-IT live project" /></a>
+        <a href="https://client-one-tau-42.vercel.app"><img src="https://img.shields.io/badge/Live_Project-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Crack-IT live project" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
