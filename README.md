@@ -83,14 +83,18 @@ Hey, I'm **Vaibhav Kaushal (V.K)**, an MCA student at NIT Jamshedpur who enjoys 
     <td width="50%" valign="top">
       <h3>🤖 Crack-IT</h3>
       <strong>AI-Powered Interview Preparation</strong>
-      <p>An interview preparation platform combining AI-assisted workflows, coding practice and structured feedback.</p>
+      <p>A full-stack platform that simulates real technical interviews end-to-end — resume parsing, AI-driven question generation, live voice interaction, sandboxed code execution, and post-interview analytics.</p>
       <ul>
-        <li>LangGraph-based multi-agent workflow</li>
-        <li>Monaco Editor and Judge0 integration</li>
-        <li>Browser extension built with WXT</li>
-        <li>AES-256-GCM encrypted API-key wallet</li>
+        <li>Real-time voice interviews using Gemini Live API — AI asks questions out loud and listens to your answers via mic</li>
+        <li>Auto-corrects speech-to-text errors using a dedicated STT correction agent</li>
+        <li>WebSocket-powered interview conductor — low latency, bidirectional communication throughout the session</li>
+        <li>Multi-agent system built with LangGraph — dedicated agents for DSA, System Design, HR, and Resume rounds</li>
+        <li>Monaco Editor (VS Code style) with Judge0 sandboxed code execution across 9 languages: JavaScript, TypeScript, Python, Java, C++, C, Go, Rust, Kotlin</li>
+        <li>Browser extension built with WXT — scrapes LeetCode/GFG problems and converts them into live mock interviews instantly</li>
+        <li>AES-256-GCM encrypted API key wallet — keys decrypted only in-memory per request, never stored in plain text</li>
+        <li>Detailed performance report after every session with scores and feedback</li>
       </ul>
-      <strong>Stack:</strong> React, Node.js, Express, MongoDB, WebSockets, LangChain, LangGraph
+      <strong>Stack:</strong> React, Node.js, Express, MongoDB, WebSockets, LangChain, LangGraph, Gemini, Groq
       <p>
         <a href="https://github.com/Vaibhav1077/Crack-IT"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Crack-IT source" /></a>
         <a href="https://client-one-tau-42.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Crack-IT demo" /></a>
