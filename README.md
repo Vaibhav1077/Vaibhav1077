@@ -85,11 +85,11 @@ Hey, I'm **Vaibhav Kaushal (V.K)**, an MCA student at NIT Jamshedpur who enjoys 
       <strong>AI-Powered Interview Preparation</strong>
       <p>Simulates real technical interviews end-to-end — upload your resume and the AI conducts a full interview with voice, live coding, and structured feedback.</p>
       <ul>
-        <li>Multi-agent system (LangGraph) — separate AI agents for DSA, System Design, HR, and Resume rounds</li>
-        <li>Real-time voice interaction via Gemini Live API — AI speaks, listens, and auto-corrects speech-to-text errors</li>
-        <li>Monaco Editor + Judge0 sandboxed execution across 9 languages (JS, TS, Python, Java, C++, C, Go, Rust, Kotlin)</li>
-        <li>Chrome extension (WXT) — scrapes LeetCode/GFG problems into live mock interviews instantly</li>
-        <li>AES-256-GCM encrypted API key wallet — decrypted only in-memory per request</li>
+        <li>🤖 Multi-agent system (LangGraph) — separate AI agents for DSA, System Design, HR, and Resume rounds</li>
+        <li>🎙️ Real-time voice interaction via Gemini Live API — AI speaks, listens, and auto-corrects speech-to-text errors</li>
+        <li>💻 Monaco Editor + Judge0 sandboxed execution across 9 languages (JS, TS, Python, Java, C++, C, Go, Rust, Kotlin)</li>
+        <li>🧩 Chrome extension (WXT) — scrapes LeetCode/GFG problems into live mock interviews instantly</li>
+        <li>🔐 AES-256-GCM encrypted API key wallet — decrypted only in-memory per request</li>
       </ul>
       <strong>Stack:</strong> React, Node.js, Express, MongoDB, WebSockets, LangGraph, Gemini, Groq, Judge0
       <p>
